@@ -6,4 +6,6 @@ OverLeafでhomework.pdfと同じ文書を作成する．
 
 注意点
 - 第一著者は自分の名前にすること．
-- 作図は[Diagram.net](https://app.diagrams.net/)を利用すること
+- 作図は[Diagram.net](https://app.diagrams.net/)を利用すること．
+- スタイルファイルはorsabs-utf8.styを利用すること．
+- template.texを利用しても良い．
