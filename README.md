@@ -2,7 +2,7 @@
 
 ## 第二回コンピュータゼミ課題
 
-OverLeafでhomework.pdfと同じ文書を作成する．
+[OverLeaf](https://www.overleaf.com/)で[homework.pdf](https://github.com/kenya15/ComputerSeminar2021/edit/main/homework.pdf)と同じ文書を作成する．
 
 注意点
 - 第一著者は自分の名前にすること．
