@@ -10,6 +10,7 @@
 - スタイルファイルは[orsabs-utf8.sty](https://github.com/kenya15/ComputerSeminar2021/edit/main/orsabs-utf8.sty)を利用すること．
 - OverLeaf上に[orsabs-utf8.sty](https://github.com/kenya15/ComputerSeminar2021/edit/main/orsabs-utf8.sty)を同じプロジェクト内にアップロードする
 - テンプレートとして[template.tex](https://github.com/kenya15/ComputerSeminar2021/edit/main/template.tex)を利用する．
+- 新規プロジェクトで作成する場合latexmrkcファイルをもう一度作成すること
 - 本文についてはPDFファイルをコピペしても構わない．数式は自分で入力する．
 - 本日触れていない環境もあるが自分で調べて書いてみる．
 - 完成したPDFは研究室のチーム/コンピュータゼミ2021/ファイル/第2回課題にアップロードする．
