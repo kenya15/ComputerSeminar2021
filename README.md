@@ -1,6 +1,6 @@
 # ComputerSeminar2021
 
-##第二回コンピュータゼミ課題
+## 第二回コンピュータゼミ課題
 
 OverLeafでhomework.pdfと同じ文書を作成する．
 
